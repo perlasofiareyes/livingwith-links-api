@@ -1,0 +1,76 @@
+{
+  "profile": {
+    "name": "Sofia",
+    "handle": "@livingwith_sofiaa",
+    "tagline": "running, good food & everyday balance",
+    "bio": "Corriendo, comiendo rico y tratando de balancear uni, work y vida. Aquí está todo lo que uso, lo que hago y cómo trabajar juntas.",
+    "avatar": ""
+  },
+  "links": [
+    {
+      "id": "canva-templates",
+      "title": "Mis plantillas de Canva",
+      "subtitle": "Carruseles y stories listos para editar",
+      "url": "",
+      "icon": "canva",
+      "highlight": true,
+      "status": "soon"
+    },
+    {
+      "id": "tiktok",
+      "title": "TikTok",
+      "subtitle": "@livingwith_sofiaa",
+      "url": "https://www.tiktok.com/@livingwith_sofiaa",
+      "icon": "tiktok"
+    },
+    {
+      "id": "instagram",
+      "title": "Instagram",
+      "subtitle": "@livingwith_sofiaa",
+      "url": "https://www.instagram.com/livingwith_sofiaa/",
+      "icon": "instagram"
+    },
+    {
+      "id": "garmin-claude-guide",
+      "title": "Guía: conecta tu Garmin con Claude",
+      "subtitle": "Analiza tus runs, sueño y HRV con IA",
+      "post": "garmin-claude",
+      "icon": "watch",
+      "highlight": true
+    },
+    {
+      "id": "pinterest",
+      "title": "Pinterest",
+      "subtitle": "Recetas, outfits de running y moodboards",
+      "url": "",
+      "icon": "pinterest",
+      "status": "soon"
+    },
+    {
+      "id": "favorites",
+      "title": "Mis favoritos",
+      "subtitle": "Lo que uso para correr, comer y organizarme",
+      "section": "favorites",
+      "icon": "heart"
+    },
+    {
+      "id": "tips",
+      "title": "Tips & blog",
+      "subtitle": "Running, food y balance",
+      "section": "blog",
+      "icon": "book"
+    },
+    {
+      "id": "collab",
+      "title": "Colaboremos",
+      "subtitle": "Marcas, UGC y proyectos",
+      "section": "collab",
+      "icon": "sparkle"
+    }
+  ],
+  "favorites": [],
+  "collab": {
+    "intro": "¿Tienes una marca de running, wellness o comida y quieres crear algo juntas? Cuéntame tu idea y te respondo.",
+    "types": ["Colaboración de marca", "Contenido UGC", "Plantillas de Canva a la medida", "Otro"]
+  }
+}

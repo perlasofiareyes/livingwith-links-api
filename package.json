@@ -1,0 +1,16 @@
+{
+  "name": "livingwith-links-api",
+  "version": "1.0.0",
+  "description": "Backend for the @livingwith_sofiaa link-in-bio page: links, blog posts, collab requests and click counts. Zero dependencies (plain Node.js).",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "export-fallback": "node scripts/export-fallback.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
