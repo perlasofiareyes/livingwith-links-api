@@ -1,4 +1,4 @@
-// livingwith-links-api — backend for the @livingwith_sofiaa link-in-bio page.
+// livingwith-links-api — backend for the @livingwsofiaa link-in-bio page.
 // Content lives in /content (site.json + posts/*.md). Edit those files, push,
 // and Railway redeploys automatically.
 

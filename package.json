@@ -1,7 +1,7 @@
 {
   "name": "livingwith-links-api",
   "version": "1.0.0",
-  "description": "Backend for the @livingwith_sofiaa link-in-bio page: links, blog posts, collab requests and click counts. Zero dependencies (plain Node.js).",
+  "description": "Backend for the @livingwsofiaa link-in-bio page: links, blog posts, collab requests and click counts. Zero dependencies (plain Node.js).",
   "main": "server.js",
   "type": "commonjs",
   "scripts": {

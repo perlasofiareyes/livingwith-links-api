@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "Sofia",
-    "handle": "@livingwith_sofiaa",
+    "handle": "@livingwsofiaa",
     "tagline": "running, good food & everyday balance",
     "bio": "Corriendo, comiendo rico y tratando de balancear uni, work y vida. Aquí está todo lo que uso, lo que hago y cómo trabajar juntas.",
     "avatar": ""
@@ -19,15 +19,15 @@
     {
       "id": "tiktok",
       "title": "TikTok",
-      "subtitle": "@livingwith_sofiaa",
-      "url": "https://www.tiktok.com/@livingwith_sofiaa",
+      "subtitle": "@livingwsofiaa",
+      "url": "https://www.tiktok.com/@livingwsofiaa",
       "icon": "tiktok"
     },
     {
       "id": "instagram",
       "title": "Instagram",
-      "subtitle": "@livingwith_sofiaa",
-      "url": "https://www.instagram.com/livingwith_sofiaa/",
+      "subtitle": "@livingwsofiaa",
+      "url": "https://www.instagram.com/livingwsofiaa/",
       "icon": "instagram"
     },
     {

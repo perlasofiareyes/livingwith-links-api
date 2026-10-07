@@ -1,6 +1,6 @@
 # livingwith-links-api
 
-Backend del link-in-bio de **@livingwith_sofiaa**. Sirve el contenido de la página (links, favoritos, posts del blog), guarda solicitudes de colaboración y cuenta clicks por link.
+Backend del link-in-bio de **@livingwsofiaa**. Sirve el contenido de la página (links, favoritos, posts del blog), guarda solicitudes de colaboración y cuenta clicks por link.
 
 Frontend: [`livingwith-links-front`](https://github.com/perlasofiareyes/livingwith-links-front)
 
