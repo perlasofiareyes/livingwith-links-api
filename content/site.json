@@ -41,10 +41,9 @@
     {
       "id": "pinterest",
       "title": "Pinterest",
-      "subtitle": "Recetas, outfits de running y moodboards",
-      "url": "",
-      "icon": "pinterest",
-      "status": "soon"
+      "subtitle": "Plantillas, recaps e ideas",
+      "url": "https://mx.pinterest.com/livingwsofiaa/",
+      "icon": "pinterest"
     },
     {
       "id": "favorites",
@@ -71,6 +70,11 @@
   "favorites": [],
   "collab": {
     "intro": "¿Tienes una marca de running, wellness o comida y quieres crear algo juntas? Cuéntame tu idea y te respondo.",
-    "types": ["Colaboración de marca", "Contenido UGC", "Plantillas de Canva a la medida", "Otro"]
+    "types": [
+      "Colaboración de marca",
+      "Contenido UGC",
+      "Plantillas de Canva a la medida",
+      "Otro"
+    ]
   }
 }
